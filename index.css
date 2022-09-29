@@ -1,0 +1,17 @@
+#one{
+    font: bolder;
+    font-size: 40px;
+    border:2px solid red;
+}
+#two{
+    border:2px solid red;
+    padding: 5px;
+
+}
+
+#three,ul,li,button,a{
+    border: 2px solid red;
+    padding: 4px;
+
+
+}
